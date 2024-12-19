@@ -33,7 +33,7 @@ function updateActivitySentence() {
 function render() {
     // Finish writing this function
     updateBookSentence();
-
+    updateActivitySentence();
 }
 
 submissionBtn.addEventListener("click", function () {
