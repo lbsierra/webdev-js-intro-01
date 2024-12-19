@@ -15,7 +15,7 @@ const book = "Do Androids Dream Of Electric Sheep?";
 // Declare a mutable variable named "activity" and assign
 // an activity to it.
 
-
+let activity = "Video Games";
 
 
 function updateBookSentence() {
